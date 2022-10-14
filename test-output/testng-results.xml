@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40748" started-at="2022-10-14T09:32:50Z" finished-at="2022-10-14T09:33:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40748" started-at="2022-10-14T09:32:50Z" finished-at="2022-10-14T09:33:31Z">
+      <class name="methods.Testmethods">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:methods.Testmethods@5a8e6209]" name="beforetest" is-config="true" duration-ms="20838" started-at="2022-10-14T09:32:50Z" finished-at="2022-10-14T09:33:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="testcase()[pri:0, instance:methods.Testmethods@5a8e6209]" name="testcase" duration-ms="2162" started-at="2022-10-14T09:33:11Z" finished-at="2022-10-14T09:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:methods.Testmethods@5a8e6209]" name="testcase2" duration-ms="6264" started-at="2022-10-14T09:33:13Z" finished-at="2022-10-14T09:33:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method status="PASS" signature="testcase3()[pri:0, instance:methods.Testmethods@5a8e6209]" name="testcase3" duration-ms="2050" started-at="2022-10-14T09:33:20Z" finished-at="2022-10-14T09:33:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method status="PASS" signature="testcase4()[pri:0, instance:methods.Testmethods@5a8e6209]" name="testcase4" duration-ms="2746" started-at="2022-10-14T09:33:22Z" finished-at="2022-10-14T09:33:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+        <test-method status="PASS" signature="testcase5()[pri:0, instance:methods.Testmethods@5a8e6209]" name="testcase5" duration-ms="458" started-at="2022-10-14T09:33:24Z" finished-at="2022-10-14T09:33:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase5 -->
+        <test-method status="PASS" signature="testcases6()[pri:0, instance:methods.Testmethods@5a8e6209]" name="testcases6" duration-ms="5886" started-at="2022-10-14T09:33:25Z" finished-at="2022-10-14T09:33:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcases6 -->
+      </class> <!-- methods.Testmethods -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
